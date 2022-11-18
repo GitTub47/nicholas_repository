@@ -1,3 +1,4 @@
+//Info
 Nama lengkap        : Nicholas Dwiki Tanoto
 Nama panggilan      : Nicholas
 Tempat/Tanggal Lahir: Cirebon, 24 Juli 2002
@@ -7,3 +8,16 @@ Status Nikah        : belum
 Hobi                : Main game ps atau pc, baca light novel dan manga, nonton film
 Cita-cita           : Jadi orang kaya
 Pekerjaan           : Mahasiswa
+
+//Sejarah Pendidikan
+TK: TK Putranirmala Cirebon
+SD: SD Santa Maria Cirebon
+SMP: SMP Santa Maria Cirebon
+SMA: SMA Santa Maria Cirebon
+
+//Pencapaian
+Global Elite di CounterStrike: Global Offensive
+Mythic di Mobile Legend
+
+//Say Hello
+Hello my name is nicholas i was born in the 24th of july on year 2002. I was born as the first child of two brothers and currently i am 20 years old while my little brother is 14 years old.
